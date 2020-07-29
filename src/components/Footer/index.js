@@ -10,13 +10,13 @@ function Footer() {
       <p>
         Orgulhosamente desenvolvido durante a
         {' '}
-        <a target="_blank" href="https://www.alura.com.br/">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.alura.com.br/">
           Imersão React da Alura
         </a>
         {' '}
         por 
         {' '}
-        <a target="_blank" href="https://lucasbecker.github.io/">
+        <a target="_blank" rel="noopener noreferrer" href="https://lucasbecker.github.io/">
           Lucas Becker
         </a>
         .
