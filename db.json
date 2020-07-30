@@ -1,0 +1,16 @@
+{
+    "categorias":[
+        {
+            "id": 1,
+            "nome": "Essay",
+            "descricao": "Videos bacanudos e que fazem refletir.",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Games",
+            "descricao": "Videos cabeçudos sobre politica e filosofia nos video games.",
+            "cor": "#cbd1ff"
+        }
+    ]
+}
