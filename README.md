@@ -47,8 +47,12 @@ O deploy do front-end do projeto foi realizado na [Vercel](https://vercel.com/gi
 O projeto está disponível [aqui](http://beckerflix.vercel.app/) e o Fake API do projeto está disponível [aqui](https://beckerflix.herokuapp.com/categorias).
 
 ## Next Steps
+- [ ] Criar animação de "loading..." e adicionar nas páginas.
 - [ ] Customizar os botões dos carousels. [How do?](carousels)
-- [ ] Criar animação de "loading..." paras as páginas de cadastro.
+- [ ] Finalizar o cadastro de categorias.
+- [ ] Listar videos e categorias cadastradas nas páginas de cadastro.
+- [ ] Adicionar a opção de deletar um video cadastrado.
+- [ ] Clicar no vídeo e ele abrir no player do banner.
 
 ## License
 [MIT License](./LICENSE) © [Lucas Becker](http://lucasbecker.github.io/)
